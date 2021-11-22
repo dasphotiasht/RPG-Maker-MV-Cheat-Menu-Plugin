@@ -1,2 +1,2 @@
 {"name":"Cheat_Menu","status":true,"description":"","parameters":{}}
-{"name":"AS_InputSettings", "status": true, "parameters": {"WASD Control": true}
+{"name":"AS_InputSettings", "status": true, "parameters": {"WASD Control": true}}
